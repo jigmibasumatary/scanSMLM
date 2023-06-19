@@ -1,0 +1,11 @@
+..........How to use............
+
+.............ino file...................
+Used to sinchronized data collection.
+ETL tuning via digital potentio-meter and  camera  are synchronized. Collections should be made as per describe in article   
+
+..........mfiles .......
+Used to processed scanSMLM data. Steps
+1. Run particledetection.m with appropraite inputs.
+2. Run localize.m  file 
+3. Run render.m file
