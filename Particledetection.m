@@ -1,5 +1,5 @@
 %%%%%%% PSF dectection%%%%%%%%%%%%%%
-%%%%%%%%written by Jigmi%%%%%%%%%%%%
+%%%%%%%%rewritten by Jigmi%%%%%%%%%%%%
 clc %Clears the command window
 warning off
 global xpix ypix wbox; %sets global variables that can be referenced in other m files
